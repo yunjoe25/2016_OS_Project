@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OS File Management</string>
+    <string name="Create">Create</string>
+    <string name="create_text">Please add extension </string>
+    <string name="root_directory_button">Root Directory</string>
+    <string name="create_file_button">Create File</string>
+    <string name="action_settings">Settings</string>
+</resources>
